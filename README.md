@@ -18,7 +18,7 @@
 ☯️ Patterns are embedded everywhere while subjective boundaries only arbitrary. I learnt this from studying extensively across a vareity of subjects including but not limited history, economics, religion, biology, philosophy, anthropology, mathematics, neuroscience, complexity, music and spirituality. I aim to learn something new everyday.
 
 
-🪬 Knowledge consolidates exponentially over time with experience. As humans we aim to live in tune with our surroundings, experiencing a variety of situations, pushing beyond our comfort zone to grow the knowledge that can help others better - any experience gathered to this aim is never lost. We're always standing on the shoulders of giants.
+🪬 Knowledge consolidates exponentially over time with experience. As humans we aim to live in tune with our surroundings, experiencing a variety of situations, pushing beyond our comfort zone to grow the knowledge that can help others better - any experience gathered to this aim is never lost for we're always standing on the shoulders of giants.
 
 
 🎢 Knowing the whys enables facing the hows. To continually work in the web3 space one must embrace its ethos for open-source, decentralization, democratization of access to knowledge, resources and capital, the next quantum leap for making the world a more livable place for all.
