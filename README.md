@@ -15,7 +15,7 @@
 🙋‍♂️ Doing it counts for far more than just talk. I learnt this from building my own startups and projects (data science, ml, blockchain) from scratch, either failing and shutting down or succeding and scaling up.
 
 
-☯️ Patterns are embedded everywhere while subjective boundaries only arbitrary. I learnt this from studying extensively across a vareity of subjects including but not limited history, economics, religion, biology, philosophy, anthropology, mathematics, neuroscience, complexity, music and spirituality.
+☯️ Patterns are embedded everywhere while subjective boundaries only arbitrary. I learnt this from studying extensively across a vareity of subjects including but not limited history, economics, religion, biology, philosophy, anthropology, mathematics, neuroscience, complexity, music and spirituality. I aim to learn something new everyday.
 
 
 🪬 Knowledge consolidates exponentially over time with experience. As humans we aim to live in tune with our surroundings, experiencing a variety of situations, pushing beyond our comfort zone to grow the knowledge that can help others better - any experience gathered to this aim is never lost. We're always standing on the shoulders of giants.
