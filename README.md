@@ -43,14 +43,7 @@
 
 💨 For a [digital assets (crypto) custody solution](https://upvest.co), co-authored a scalable transaction engine backend for up to 1000 txps using the Ethereum protocol within a microservices & events based architecture, this being the second most used client API developed at Upvest handling up to 10,000 txs within 2 days. Stack: Golang, TypeScript, Node.JS, Rabbitmq, MongoDB, Kubernetes, Docker, PostgreSQL, Github CI/CD workflows, APM.
 
-👨‍🎓 Prior to moving into the software industry,I was involved in research and developement at 6 international experimental nuclear fusion energy projects across Europe - Madrid (CIEMAT), Prague (IPP), Cadarache (CEA-ITER), and Lisbon (IPF), Max-Planck Institute for Plasma Physics in Greifswald (Wendelstein-7X) & in Munich (ASDEX-UG) resulting as [author and co-author on over 20 papers in international nuclear fusion research journals](https://scholar.google.com/citations?user=rY5ZXHEAAAAJ&hl=en) at various experimental nuclear fusion installations as a research fellow (PhD). 
+👨‍🎓 Prior to moving into the software industry, I was devoted to computational research and experimental developement at 6 international experimental nuclear fusion energy projects across Europe - Madrid (CIEMAT), Prague (IPP), Cadarache (CEA-ITER), and Lisbon (IPF), Max-Planck Institute for Plasma Physics (MPI) in Greifswald (Wendelstein-7X) & in Munich (ASDEX-UG) resulting as [author and co-author on over 20 papers in international nuclear fusion research journals](https://scholar.google.com/citations?user=rY5ZXHEAAAAJ&hl=en)
 
 
 ## 🚀 Let's build the web3 for the web3 by the web3
-
-
-
-
-
-
-
